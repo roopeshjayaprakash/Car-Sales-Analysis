@@ -38,7 +38,11 @@
 
    ### for performing any Time Intelligence functions it is recommended to use calendar table
 
-2. Data Modeling
+   ![DAX Function1](https://github.com/user-attachments/assets/b5fab81f-f68d-4dfe-aa6b-8eae61fb9804)
+
+   Creating Calendar Table using DAX function
+
+3. Data Modeling
    
 
    
