@@ -42,9 +42,9 @@
 
    Creating Calendar Table using DAX function
     Populating the table with Month, Year, Date columns using DAX functions for performing comparitive analysis.
-    ![DAX Function1](https://github.com/user-attachments/assets/265a0b90-a63a-4942-949e-14ce4e00d10c)
 ![DAX 2](https://github.com/user-attachments/assets/3ceefa90-8e3e-4226-8c29-729e064d8f2a)
 ![DAX3](https://github.com/user-attachments/assets/6357b2b4-9af5-4077-9831-7fa47f86bd3f)
+![DAX4](https://github.com/user-attachments/assets/22a31654-eb94-4b42-ac5c-d3cf284fed80)
 
 3. Data Modeling:
    
