@@ -36,4 +36,9 @@
     ![P2 Data Cleaning 2](https://github.com/user-attachments/assets/872d3b72-fa2d-4ca0-ba9e-97966de93ed3)
    Standardising the data by renaming the Data within the same category but different labels given
 
+   ### for performing any Time Intelligence functions it is recommended to use calendar table
+
+2. Data Modeling
+   
+
    
